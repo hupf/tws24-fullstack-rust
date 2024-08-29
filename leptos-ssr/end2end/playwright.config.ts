@@ -1,3 +1,4 @@
+import type { PlaywrightTestConfig } from "@playwright/test";
 import { devices, defineConfig } from "@playwright/test";
 
 /**
